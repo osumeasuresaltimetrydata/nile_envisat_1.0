@@ -1,0 +1,5 @@
+# NaN NaN NaN ;Mean Elev.(m), Avg Gradient(m/km), RMS Gradient(m/km) - SRTM1     
+#   62.293   0.385  19.822 ;Mean Elev.(m), Avg Gradient(m/km), RMS Gradient(m/km) - ASTER GDEM
+#   47.167  -0.135  19.585 ;Mean Elev.(m), Avg Gradient(m/km), RMS Gradient(m/km) - GMTED2010 
+ 25  31.171716  27.213646    51.299    51.299  2 53099.81794583 30.597
+ 78  31.172132  27.213210    47.810    47.810  2 54954.81782706 35.820
